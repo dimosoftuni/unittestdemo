@@ -16,7 +16,7 @@ namespace CircularQueue.Tests
         public CircularQueue(int capacity = InitialCapacity)
         {
             this.elements = new T[capacity];
-            this.StartIndex = 0;
+            this.StartIndex = 1;
             this.EndIndex = 0;
         }
 
