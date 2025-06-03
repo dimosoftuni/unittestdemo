@@ -38,7 +38,7 @@ namespace CircularQueue.Tests
 
             this.CopyAllElementsTo(newElements);
             this.elements = newElements;
-            this.StartIndex = 0;
+            this.StartIndex = 1;
             this.EndIndex = this.Count;
         }
 
