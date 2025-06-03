@@ -1,15 +1,4 @@
-.vs/03.Unit-Testing-and-NUnit-Solution/CopilotIndices/17.14.719.50355/CodeChunks.db
-.vs/03.Unit-Testing-and-NUnit-Solution/CopilotIndices/17.14.719.50355/CodeChunks.db-shm
-.vs/03.Unit-Testing-and-NUnit-Solution/CopilotIndices/17.14.719.50355/CodeChunks.db-wal
-.vs/03.Unit-Testing-and-NUnit-Solution/CopilotIndices/17.14.719.50355/SemanticSymbols.db
-.vs/03.Unit-Testing-and-NUnit-Solution/CopilotIndices/17.14.719.50355/SemanticSymbols.db-shm
-.vs/03.Unit-Testing-and-NUnit-Solution/CopilotIndices/17.14.719.50355/SemanticSymbols.db-wal
-.vs/03.Unit-Testing-and-NUnit-Solution/FileContentIndex/678141d0-6549-44aa-9325-fc2d23c06a13.vsidx
-.vs/03.Unit-Testing-and-NUnit-Solution/v17/.suo
-.vs/03.Unit-Testing-and-NUnit-Solution/v17/DocumentLayout.backup.json
-.vs/03.Unit-Testing-and-NUnit-Solution/v17/DocumentLayout.json
-.vs/03.Unit-Testing-and-NUnit-Solution/v17/TestStore/0/000.testlog
-.vs/03.Unit-Testing-and-NUnit-Solution/v17/TestStore/0/testlog.manifest
+.vs/
 CircularQueue.Tests/bin/Debug/net6.0/CircularQueue.Tests.deps.json
 CircularQueue.Tests/bin/Debug/net6.0/CircularQueue.Tests.dll
 CircularQueue.Tests/bin/Debug/net6.0/CircularQueue.Tests.pdb
