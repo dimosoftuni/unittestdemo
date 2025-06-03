@@ -6,7 +6,7 @@ namespace CircularQueue.Tests
     {
         private T[] elements;
 
-        public int Count { get; private set; }
+        public int Count { get; public set; }
         public int Capacity { get => elements.Length; }
         public int StartIndex { get; private set; }
         public int EndIndex { get; private set; }
